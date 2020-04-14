@@ -1,4 +1,4 @@
-# -*- coding: utf8 -*-
+# -*- coding: utf8 -* -heroku create myapp --buildpack heroku/python
 import requests,vk_api,random,sleep
 from python3_anticaptcha import ImageToTextTask
 from python3_anticaptcha import errors
